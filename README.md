@@ -11,10 +11,10 @@
 <div align="center"><img src="https://i.imgur.com/D30pkUa.gif"></img></div>
 
 <h2>Installation</h2>
-1. Download this project as zip and extract it
-2. Import it to an editor like VS Code with liveserver 
-3. Use browser to try quiz - you can edit xml file to customize quiz
-4. ...there are probably better ways to do this, but this is how I would do it
+1. Download this project as zip and extract it<br>
+2. Import it to an editor like VS Code with liveserver <br>
+3. Use browser to try quiz - you can edit xml file to customize quiz<br>
+4. ...there are probably better ways to do this, but this is how I would do it<br>
 
 <h2>Project status</h2>
 Completed for course purposes
