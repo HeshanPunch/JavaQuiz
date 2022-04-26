@@ -1,0 +1,93 @@
+body{
+    background-image: url(res/markus-spiske-1LLh8k2_YFk-unsplash.jpg);
+    background-size: 100% ;
+    background-repeat: no-repeat;
+    
+}
+
+header{
+    width: 50%;
+    
+    text-align: center;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 800;
+    color: #e6ffe6;
+    font-size: 40px;
+    margin: 10px auto 20px auto;
+    
+    
+}
+
+.quiz{
+    background-color:rgba(54, 41, 64, 0.95);
+    font-family: 'Inconsolata', monospace;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    color: #f4f4ed;
+    border-radius: 10px;
+    border: 2px solid #857b7b;
+    box-shadow: 4px 4px  #928e99;
+}
+
+.results{
+    background-color: #361d32;
+        font-family: 'Inconsolata', monospace;
+    width: 30%;
+    margin: 15px auto 5px auto;
+    padding: 10px;
+    color: #f4f4ed;
+    border-radius: 10px;
+    display: none;
+    text-align: center;
+    font-size: 18px;
+    
+}
+
+.buttons{
+    text-align: center;
+}
+
+button{
+    margin: 10px; 
+    border-radius: 25px 0px 25px 0px;
+    border: 1px solid #f4f4ed;;
+    transition: all 0.9s ease 0s; 
+    cursor: pointer;  
+    text-transform: uppercase; 
+    letter-spacing: 2px; 
+    width: 150px;
+    height: 30px;
+    background-color: #5c5479;
+    color: #f4f4ed;
+    font-size:15px;
+    font-weight: 600;
+    font-family: 'Inconsolata', monospace;
+}
+
+button:hover{ 
+    background-color:#361d32; 
+    transform:scale(1.1);
+    color: #f55951;
+} 
+
+
+button:focus{ 
+    background-color:#1b0e19; 
+    box-shadow: 15px 10px; 
+    box-shadow: 5px 5px 25px #361d32; 
+    color: #f55951;
+} 
+
+
+
+/*
+font-family: 'Inconsolata', monospace;
+font-family: 'Nunito Sans', sans-serif;
+*/
+
+/*references:
+https://unsplash.com/photos/1LLh8k2_YFk
+
+*/
