@@ -13,7 +13,7 @@
 <h2>Quiz</h2>
 <br>Calls for xml file to show the quiz with radio buttons for answer
 <br>grades quiz on submission and shows score, option to try again
-<div align="center"><img src="https://i.imgur.com/D30pkUa.gif" width=500px></img></div>
+<div align="center"><img src="https://i.imgur.com/D30pkUa.gif" width=1500px></img></div>
 
 <h2>Installation</h2>
 1. Download this project as zip and extract it<br>
